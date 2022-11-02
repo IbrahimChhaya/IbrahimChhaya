@@ -34,6 +34,9 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
+### Stuff I Don't Know:
+A lot, but I'm always looking to learn something new 💡
+
 ### Stuff I Use:
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
@@ -42,9 +45,6 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
-
-### Stuff I Don't Know:
-A lot, but I'm always looking to learn something new 💡
 
 ### Stuff I've Worked On:
 <img width="25" src="ImmuneRaiderLogo1 1.png"> Immune Raider: immune system inspired game AI. Top 5 at UJ's 36th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/ImmuneRaider)
