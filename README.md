@@ -34,6 +34,8 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
+![Nvidia](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white) Certificate in Fundamentals of Deep Learning
+
 ### Stuff I Don't Know:
 A lot, but I'm always looking to learn something new 💡
 
