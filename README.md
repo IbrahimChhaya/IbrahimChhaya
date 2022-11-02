@@ -46,22 +46,14 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 ### Stuff I Don't Know:
 A lot, but I'm always looking to learn something new 💡
 
+### Stuff I've Worked On:
+<img width="25" src="ImmuneRaiderLogo1 1.png"> Immune Raider: immune system inspired game AI. Top 5 at UJ's 36th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/ImmuneRaider)
+
+<img width="25" src="curaMonkeyBody.png"> cura: mobile app and webapp for children, guardians, and psychologists. Top 2 and Best Website at UJ's 35th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/cura)
+
+<img width="25" src="GP_Logo.png"> Green Pantry: more than just an ecommerce site. Winner of UJ's 34th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/GreenPantry)
+
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ibrahimchhaya/)
 [![CV](/MyCV.png)](/IbrahimCV_V5.pdf)
-
-<!--
-**IbrahimChhaya/IbrahimChhaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
