@@ -49,6 +49,7 @@ A lot, but I'm always looking to learn something new 💡
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ibrahimchhaya/)
+[![CV](/MyCV.png)](/IbrahimCV_V5.pdf)
 
 <!--
 **IbrahimChhaya/IbrahimChhaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
