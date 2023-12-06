@@ -9,7 +9,7 @@
   Ibrahim Chhaya
 </h1>
 
-Welcome to my GitHub page! Here you'll find all of my projects, old and new, as well as my [UI design portfolio](https://github.com/IbrahimChhaya/MyUIDesigns).
+Welcome to my GitHub page! Here you'll find all of my projects, old and new.
 
 <h2 align="center">
   🏗️ This page is still under construction 🏗️
@@ -17,7 +17,7 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 
 ### A Little About Me:
 
-📚 Currently studying BSc Honours in Information Technology at the University of Johannesburg (almost done!)
+📚 Currently studying MAsters in Information Technology Privacy Engineering at Carnegie Mellon University
 
 😺 I like cats
 
@@ -29,19 +29,27 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new, as 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
 ![Java](/Java.png)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white) Certificate in Fundamentals of Deep Learning
+
+
 
 ### Stuff I Don't Know:
 A lot, but I'm always looking to learn something new 💡
 
 ### Stuff I Use:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?style=for-the-badge&logo=Xamarin&logoColor=white)
@@ -59,4 +67,4 @@ A lot, but I'm always looking to learn something new 💡
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ibrahimchhaya/)
-[![CV](/MyCV.png)](/IbrahimCV_V5.pdf)
+[![CV](/MyCV.png)](/IbrahimCV_MSIT.pdf)
