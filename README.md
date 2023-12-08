@@ -58,11 +58,11 @@ A lot, but I'm always looking to learn something new 💡
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ### Stuff I've Worked On:
-<img width="25" src="ImmuneRaiderLogo1 1.png"> Immune Raider: artificial immune system inspired game AI. Top 4 at UJ's 36th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/ImmuneRaider)
+<img width="25" src="ImmuneRaiderLogo1 1.png"> Immune Raider: artificial immune system inspired game AI. Top 4 at UJ's 36th Projects Day. [More details here](https://github.com/IbrahimChhaya/ImmuneSystemGame)
 
-<img width="25" src="curaMonkeyBody.png"> cura: mobile and web app for children, guardians, and psychologists. Top 2 and Best Website at UJ's 35th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/cura)
+<img width="25" src="curaMonkeyBody.png"> cura: mobile and web app for children, guardians, and psychologists. Top 2 and Best Website at UJ's 35th Projects Day. [More details here](https://github.com/IbrahimChhaya/cura)
 
-<img width="25" src="GP_Logo.png"> Green Pantry: more than just an ecommerce site. Winner of UJ's 34th Projects Day. [More details here](https://github.com/IbrahimChhaya/MyUIDesigns/tree/main/GreenPantry)
+<img width="25" src="GP_Logo.png"> Green Pantry: more than just an ecommerce site. Winner of UJ's 34th Projects Day. [More details here](https://github.com/IbrahimChhaya/GreenPantry)
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
