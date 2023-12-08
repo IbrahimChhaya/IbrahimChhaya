@@ -17,7 +17,7 @@ Welcome to my GitHub page! Here you'll find all of my projects, old and new.
 
 ### A Little About Me:
 
-📚 Currently studying MAsters in Information Technology Privacy Engineering at Carnegie Mellon University
+📚 Currently studying MSc in Information Technology Privacy Engineering at Carnegie Mellon University
 
 😺 I like cats
 
