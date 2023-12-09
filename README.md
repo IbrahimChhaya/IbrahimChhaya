@@ -70,4 +70,4 @@ A lot, but I'm always looking to learn something new 💡
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
-[![CV](/MyCV.png)](/IbrahimCV_MSIT.pdf)
+[![CV](/MyCV.png)](/Resume.pdf)
