@@ -66,7 +66,7 @@ A lot, but I'm always looking to learn something new 💡
 
 <img width="25" src="GP_Logo.png"> Green Pantry: more than just an ecommerce site. Winner of UJ's 34th Projects Day. [More details here](https://github.com/IbrahimChhaya/GreenPantry)
 
-<img width="25" src="RollThingLogo.png"> RollThing: An infinite zigzig ball rolling game created to self-learn mobile game development with the Unity game engine. [More details here](https://github.com/IbrahimChhaya/RollThing)
+<img width="25" src="RollThingLogo.png"> BallRoller: An infinite zigzig ball rolling game created to self-learn mobile game development with the Unity game engine. [More details here](https://github.com/IbrahimChhaya/BallRoller)
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibrahimchhaya/)
